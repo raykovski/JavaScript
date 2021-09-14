@@ -25,3 +25,6 @@ if (score < 60) {
     let fScore = 'F'
     console.log('You got a ' + fScore + ' (' + score + '%)!')
 }
+
+
+edit
